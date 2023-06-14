@@ -1,12 +1,16 @@
 body {
     font-family: "Times New Roman", Times, serif;
-    background-color: black;
+    background-color: cyan;
 }
 
 h1,
-h2,
-li {
+h2 {
     text-align: center;
-    color: white;
+    color: red;
+}
+
+a,
+li {
+    color: black
 }
 
