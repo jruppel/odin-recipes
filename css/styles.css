@@ -20,3 +20,17 @@ img {
     margin-right: auto;
     width: 20%;
 }
+
+.links {
+    text-align: center;
+  }
+  
+.links li {
+    background-color: white;
+    font-size: 24px;
+    display: inline-block;
+    font-size: 20px;
+    padding: 30px 60px;
+    margin: 50px;
+    border: 5px solid red;
+  }
